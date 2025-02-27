@@ -31,7 +31,7 @@ const Hero = () => {
             words="Transfering Ideas into Seamless Software  "
           />
           <p className="text-white text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi I'm Kareem, a Next.Js Developer based in Germany
+            Hi I&apos;m Kareem, a Next.Js Developer based in Germany
           </p>
           <a href="#about">
           <Magicbutton

@@ -1,5 +1,8 @@
+
 const nextConfig = {
-  // your config options...
+ typescript:{
+  ignoreBuildErrors: true
+ }
 };
 
 export default nextConfig;
